@@ -1,0 +1,17 @@
+{
+    "coc.source.vimtex.enable": false,
+    "coc.source.around.enable": false,
+    "suggest.floatConfig": {
+        "border": true
+    },
+    "diagnostic.floatConfig": {
+        "border": true
+    },
+    "signature.floatConfig": {
+        "border": true
+    },
+    "hover.floatConfig": {
+        "border": true
+    },
+    "semanticTokens.enable": true,
+}
